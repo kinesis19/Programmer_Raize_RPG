@@ -6,7 +6,7 @@
  현실로 돌아가기 위해 바이러스를 때려 잡는 3류 프로그래머의 모험이 시작 된다!
  
  [플레이 및 기획 발표 영상]
- {% include video id="hUIzOQnV4Bw" provider="youtube" %}
+ [![Video Label](http://img.youtube.com/vi/hUIzOQnV4Bw/0.jpg)](https://youtu.be/hUIzOQnV4Bw?t=0s)
  
  
  [개발자 코멘트] 
